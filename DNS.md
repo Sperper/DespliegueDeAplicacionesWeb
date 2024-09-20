@@ -24,4 +24,20 @@ Registro A (Address): Muestra la dirección IP IPv4 para un nombre de host o dom
 Registro AAAA (IPv6 Address): Similar al registro A, pero se dirige a direcciones IP IPv6 1.
 Registro CNAME (Canonical Name): Permite crear alias para un nombre de host 1.
 Registro NS (Name Server): Indica el servidor DNS autorizado para un dominio 1.
-Registro MX (Mail Exchange): Indica dónde deben dirigirse los correos electrónicos de un domini
+Registro MX (Mail Exchange): Indica dónde deben dirigirse los correos electrónicos de un dominio
+
+## Funcionamiento
+### DNS recursivo
+El DNS recursivo es el tipo más común y utilizado por la mayoría de los usuarios finales. Funciona como sigue:
+
+El cliente envía una consulta al servidor DNS local.
+Si el servidor local no tiene la respuesta en caché, realiza consultas a servidores autoritarios apropiados.
+Recibe las respuestas de los servidores autoritarios y las devuelve al cliente.
+Almacena la respuesta para futuras consultas rápidas
+### DNS iterativo
+El DNS iterativo es un método de resolución que permite que el servidor DNS recorra múltiples niveles jerárquicos hasta encontrar la información solicitada. Es diferente del recursivo porque:
+
+No sigue siempre el camino más corto hacia la respuesta.
+Puede consultar múltiples servidores antes de devolver una respuesta.
+Permite una mayor flexibilidad en la búsqueda de información
+
