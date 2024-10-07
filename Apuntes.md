@@ -7,7 +7,7 @@ Es una cadena de texto que se asigna a una dirección IP numérica.
 
 ## Niveles de dominio
 ### Primer nivel
-Los servidores de nombre de dominio de primer nivel mantiene la información de todos los nombre de dominio que comparten una extensión común, tal como .com, .net, etc.
+Los servidores de nombre de dominio de primer nivel mantiene la información de todos los nombre de dominio que comparten una **extensión común**, tal como .com, .net, etc.
 Existen dos tipos de dominios de primer nivel.
 - Dominios de primer nivel genéricos: Son aquellos dominios que no son específicos de paises, los más conocidos son .com, .org, .net, .edu y .gov.
 - Dominios de primer nivel de código de país: Son todos los dominios específicos de cada país. Un ejemplo de este tipo de dominios sería .es.
@@ -41,3 +41,5 @@ No sigue siempre el camino más corto hacia la respuesta.
 Puede consultar múltiples servidores antes de devolver una respuesta.
 Permite una mayor flexibilidad en la búsqueda de información
 
+### Recursos
+[DNS](https://www.cloudflare.com/es-es/learning/dns/what-is-dns/)
