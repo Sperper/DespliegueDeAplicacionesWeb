@@ -11,3 +11,5 @@
 
 ## Fichero resolv.conf
 - sudo nano /etc/resolv.conf
+
+## Foto de dig a prueba.com
