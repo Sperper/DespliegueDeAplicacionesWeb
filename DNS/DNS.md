@@ -11,4 +11,3 @@
 
 ## Fichero resolv.conf
 - sudo nano /etc/resolv.conf
-
