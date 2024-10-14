@@ -13,3 +13,4 @@
 - sudo nano /etc/resolv.conf
 
 ## Foto de dig a prueba.com
+![](https://github.com/Sperper/DespliegueDeAplicacionesWeb/blob/master/DNS/dns.png)
