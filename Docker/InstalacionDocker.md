@@ -21,3 +21,5 @@ sudo apt install docker-ce docker-ce-cli containerd.io
 ## Verificar la instalacion
 docker version
 
+## Foto de Hello World con docker
+![](https://github.com/Sperper/DespliegueDeAplicacionesWeb/blob/master/Docker/Hola-Mundo.png)
