@@ -18,4 +18,4 @@
     mariadb
 
 ## Foto
-![]()
+![](https://github.com/Sperper/DespliegueDeAplicacionesWeb/blob/master/Docker/Ejercicio4/BaseDeDatos.png?raw=true)
