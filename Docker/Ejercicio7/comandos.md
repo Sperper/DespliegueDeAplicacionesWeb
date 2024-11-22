@@ -15,3 +15,6 @@
 - docker rm c2
 
 - docker volume rm volumen_datos
+
+## Imagen
+![](https://github.com/Sperper/DespliegueDeAplicacionesWeb/blob/master/Docker/Ejercicio7/Tarea7.png?raw=true)
