@@ -12,3 +12,4 @@
 - docker-compose ps
 - docker cp LocalSettings.php mediawiki:/var/www/html/
 
+![](https://github.com/Sperper/DespliegueDeAplicacionesWeb/blob/master/Docker/Compose/Finalizado.png?raw=true)
