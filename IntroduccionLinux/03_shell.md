@@ -17,10 +17,10 @@
 ### Bob
 
 - 2. Execute ./hello.sh. Does it succeed? Why (not)?
-- 
+
  Si funciona porque al configurar los permisos se le ha dado permiso de ejecución a cualquiera que quiera ejecutarlo con chmod 777 ./hello.sh
 
- ![](https://github.com/Sperper/DespliegueDeAplicacionesWeb/blob/master/Imagenes/Ejercicio_3.3.png?raw=true)
+ ![](https://github.com/Sperper/DespliegueDeAplicacionesWeb/blob/master/Imagenes/Ejercicio_3.4.png?raw=true)
 
 ### Smith
 
@@ -28,5 +28,5 @@
 - 
   Funcionan los dos scripts ya que tiene perrmisos de ejecución para todos los usuarios sin embargo, si no tuviera estos permisos en cualquiera no se podrían ejecutar estos scripts.
 
-  ![](https://github.com/Sperper/DespliegueDeAplicacionesWeb/blob/master/Imagenes/Ejercicio_3.3.png?raw=true)
+  ![](https://github.com/Sperper/DespliegueDeAplicacionesWeb/blob/master/Imagenes/Ejercicio_3.4_Smith.png?raw=true)
 
