@@ -25,3 +25,6 @@
 
 ## Actividad 4.4
 
+![](https://github.com/Sperper/DespliegueDeAplicacionesWeb/blob/master/Imagenes/Ejercicio_4.4.png?raw=true)
+
+![](https://github.com/Sperper/DespliegueDeAplicacionesWeb/blob/master/Imagenes/Ejercicio_4.4_b.png?raw=true)
