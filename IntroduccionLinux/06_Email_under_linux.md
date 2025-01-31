@@ -46,3 +46,9 @@ Las implicaciones son que al no ser que se configuren bien los permisos otros us
 - Puerto 110
 - Puerto 995
 
+### Actividad 6.4
+**1. What is IMAP? List the differences between POP3 and IMAP.**
+IMAP es un protocolo que permite acceder y gestionar correos electrónicos almacenados en un servidor de correo desde diferentes dispositivos o ubicaciones. A diferencia de POP3, los correos se mantienen en el servidor, permitiendo sincronización en tiempo real y acceso simultáneo desde múltiples dispositivos.
+
+**2. What is PGP encryption? How does it work?**
+PGP es un método de encriptación que protege la privacidad de los correos electrónicos mediante el uso de criptografía de clave pública y privada. Cada usuario tiene un par de claves: una clave pública y una clave privada.
