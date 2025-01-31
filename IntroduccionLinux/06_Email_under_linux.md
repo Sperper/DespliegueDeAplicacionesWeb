@@ -24,3 +24,25 @@ El comando envía un correo con el asunto "Hello World" y el cuerpo "Welcome to 
 
 #### - Eliminar mails
 ![](https://github.com/Sperper/DespliegueDeAplicacionesWeb/blob/master/Imagenes/Ejercicio_6.3_Eliminar.png?raw=true)
+
+**What is contained in /var/spool/mail/? What are the security implications of this?**
+Se almacenan los buzones de correo de los usarios locales de un sistema linux. Cada usuario del sistema tiene un archivo en este directorio que lleva su nombre de usuario.
+
+Las implicaciones son que al no ser que se configuren bien los permisos otros usuarios pueden leer el correo, eliminarlos o usarlos para escalar privilegios.
+
+**From your Windows host machine, telnet to your virtual machine on port 25 (telnet ip_address 25) and send a message to bob@localhost from your_name @localhost by talking to the serve The message body text and subject can be anything you like.**
+
+**Enable POP3. Hint: look in /etc/inetd.conf. Also, you should remember that you need to do something after saving changes to a configuration file to make those changes take effect... (refer to Lab 4 on page 23)**
+
+![](https://github.com/Sperper/DespliegueDeAplicacionesWeb/blob/master/Imagenes/Ejercicio_6.3_POP3.png?raw=true)
+
+**What ports are used by SMTP and POP3?**
+**STMP**
+- Purto 25
+- Puerto 465
+- Puerto 587
+
+**POP3**
+- Puerto 110
+- Puerto 995
+
