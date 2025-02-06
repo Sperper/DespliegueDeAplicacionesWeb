@@ -68,3 +68,18 @@ Estos archivos suelen ser utilizados como la página predeterminada que se carga
 </html>
 
 ![](https://github.com/Sperper/DespliegueDeAplicacionesWeb/blob/master/Imagenes/Ejercicio_7.3.3.png?raw=true)
+
+## Actividad 7.4
+
+**1. Explain the difference between CLI andGUI.**
+
+Mientras que CLI es una interfaz donde los usuarios interactuan con el sistema operativo o aplicaciones escribiendo comandos en una consola o terminal, GUI es una interfaz que utiliza elementos
+gráficos como ventanas, botones y menús para permitir la interacción con el sistema o aplicaciones. 
+
+**2. What is special about the IP address 127.0.0.1?**
+
+La dirección IP 127.0.0.1 apunta de vuelta a la misma máquina en la que se está ejecutando.
+
+**3. View the HTML file in lynx by executing.**
+
+![](https://github.com/Sperper/DespliegueDeAplicacionesWeb/blob/master/Imagenes/Ejercicio_7.4.3.png?raw=true)
