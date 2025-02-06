@@ -83,3 +83,7 @@ La dirección IP 127.0.0.1 apunta de vuelta a la misma máquina en la que se est
 **3. View the HTML file in lynx by executing.**
 
 ![](https://github.com/Sperper/DespliegueDeAplicacionesWeb/blob/master/Imagenes/Ejercicio_7.4.3.png?raw=true)
+
+## Actividad 7.5
+
+![](https://github.com/Sperper/DespliegueDeAplicacionesWeb/blob/master/Imagenes/Ejercicio_7.5.png?raw=true)
